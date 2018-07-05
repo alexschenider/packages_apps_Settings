@@ -23,7 +23,7 @@
   <string name="show_dev_already_enabled">Tidak perlu, opsi pengembang telah diaktifkan secara bawaan.</string>
   <!-- Dev Info -->
   <string name="xtended_about_nfo">Tentang Xtended</string>
-  <string name="xtended_about_info_summary_title">Anda tahu Kami!</string>
+  <string name="xtended_about_info_summary_title">Tentang kami</string>
   <string name="xtended_info_summary">Proyek Xtended adalah ROM berbasis GZOSP, dan kami akan berupaya memperbaikinya sesegera mungkin dimasa mendatang.</string>
   <string name="devs_header">Tim Inti Dev</string>
   <string name="maintainers_header">Membantu Tangan dan Pencoba</string>
